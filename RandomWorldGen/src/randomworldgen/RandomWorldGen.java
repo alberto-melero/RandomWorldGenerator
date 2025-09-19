@@ -17,6 +17,7 @@ public class RandomWorldGen {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola Mundo");
+        System.out.println("Nuevo texto para el ejercicio de commit");
     }
     
 }
