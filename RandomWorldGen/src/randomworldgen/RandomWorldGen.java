@@ -19,6 +19,7 @@ public class RandomWorldGen {
         System.out.println("Hola Mundo");
         System.out.println("Nuevo texto para el ejercicio de commit");
         System.out.println("Ejercicio 22");
+        System.out.println("Commit desde bash");
     }
     
 }
